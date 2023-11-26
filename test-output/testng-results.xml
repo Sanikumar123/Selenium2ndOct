@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-26T14:19:17 IST" name="Default suite" finished-at="2023-11-26T14:20:00 IST" duration-ms="42973">
+    <groups>
+    </groups>
+    <test started-at="2023-11-26T14:19:17 IST" name="Default test" finished-at="2023-11-26T14:20:00 IST" duration-ms="42973">
+      <class name="com.XYZ.homepagetest.BankManagerLoginTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.XYZ.homepagetest.BankManagerLoginTest@1534f01b]" started-at="2023-11-26T14:19:17 IST" name="openBrowser" finished-at="2023-11-26T14:19:41 IST" duration-ms="23991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="addACustomer()[pri:1, instance:com.XYZ.homepagetest.BankManagerLoginTest@1534f01b]" started-at="2023-11-26T14:19:41 IST" name="addACustomer" finished-at="2023-11-26T14:19:58 IST" duration-ms="17608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addACustomer -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.XYZ.homepagetest.BankManagerLoginTest@1534f01b]" started-at="2023-11-26T14:19:58 IST" name="closeBrowser" finished-at="2023-11-26T14:20:00 IST" duration-ms="1187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.XYZ.homepagetest.BankManagerLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
